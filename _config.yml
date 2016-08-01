@@ -1,4 +1,3 @@
-layout_spectrum: 0.01369705842807889
 typography_spectrum: 0.8805169796105474
 color:
   brandStrength: 0.570628141053021
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.01369705842807889
 name: IPS
 title: International Property Select
+description: All Things Property & Design
