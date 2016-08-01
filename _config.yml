@@ -1,0 +1,14 @@
+layout_spectrum: 0.01369705842807889
+typography_spectrum: 0.8805169796105474
+color:
+  brandStrength: 0.570628141053021
+  lightness: 0.4789364745374769
+  saturation: 0.2218446028418839
+  rhythmicContrast: 0.767689228290692
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: IPS
