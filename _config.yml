@@ -6,9 +6,9 @@ color:
   saturation: 0.2218446028418839
   rhythmicContrast: 0.767689228290692
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: IPS
